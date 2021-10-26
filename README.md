@@ -1,5 +1,11 @@
 ### Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akme)
+
+<a href="https://github.com/akme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akme&hide=html,css&theme=radical&layout=compact" />
+</a>
+<a href="https://github.com/akme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akme&count_private=true&theme=radical&hide=contribs&show_icons=true&hide_title=true" />
+</a>
   
 ![Profile views](https://gpvc.arturio.dev/akme)
 <!-- 
